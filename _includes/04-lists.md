@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favorite things
+* Engineering
+* Web development
+* Blockchains
+* Cryptocurrencies
+* Art
+* NFT's
